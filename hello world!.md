@@ -1,7 +1,9 @@
 # First file of version's control
-To make a headline put # before the sentence.
+To make a headline put # before the sentence text.
 
 ## Formating text
+To make a chapter or small headline put ## before the sentence or text.
+
 For Italic font place stars on both sides of the text - *Italic.*
 
 **Bold.**
