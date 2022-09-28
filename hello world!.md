@@ -1,7 +1,7 @@
 # First file of version's control
 
 ## Formating text
-For Italic font place stars on both sides of the text *Italic.*
+For Italic font place stars on both sides of the text - *Italic.*
 
 **Bold.**
 
