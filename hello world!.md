@@ -4,9 +4,9 @@ To make a headline put # before the sentence text.
 ## Formating text
 To make a chapter or small headline put ## before the sentence or text.
 
-For Italic font place stars on both sides of the text - *Italic.*
+For Italic font place * on both sides of the text - *Italic.*
 
-**Bold.**
+For Bold font place ** on bothe sides of the text - **Bold.**
 
 ## LISTS
 * Element 1
