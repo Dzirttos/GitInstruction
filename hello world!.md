@@ -1,9 +1,11 @@
-Hello world!
+# First file of version's control
 
-*Narrow.*
+## Formating text
+For Italic font place stars on both sides of the text *Italic.*
 
 **Bold.**
 
+## LISTS
 * Element 1
 * Element 2
 * Element 3
@@ -11,4 +13,4 @@ Hello world!
 1. Element
 2. Element
 
-Meeting with version's control.
+
