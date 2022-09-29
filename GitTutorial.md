@@ -1,5 +1,5 @@
-## Versions control
+# Versions control
 
-# Glossary
+## Glossary
 
 Repository - is a storage of files supporting versioning
