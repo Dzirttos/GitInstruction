@@ -1,7 +1,8 @@
-# **Versions control**
+# **Version control**
 
 ## Glossary
 
+Version contol - also know as "control of original code". It is a practice that allows one to monitor all of the chages of the original code and manage it. 
 Repository - is a storage of files supporting versioning
 
 ## General commands in Git
