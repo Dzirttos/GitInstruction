@@ -17,3 +17,5 @@ Repository - is a storage of files supporting versioning
 
 *"Surfing" through:*
 * **git checkout "hashcode"** - switch between commits. You must know and least 4 starting symbols of hashcode of the commit you wish to switch to. 
+* **git checkout master** - return to current state and countinue your work
+* **git diff** - check the difference between current file and last commited file
