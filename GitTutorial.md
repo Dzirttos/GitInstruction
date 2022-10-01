@@ -15,3 +15,5 @@ Repository - is a storage of files supporting versioning
 * **git commit -m "message"** - make a commit
 * **git log** - shows the history of all our commits with thier hashcodes
 
+*"Surfing" through:*
+* **git checkout "hashcode"** - switch between commits. You must know and least 4 starting symbols of hashcode of the commit you wish to switch to. 
