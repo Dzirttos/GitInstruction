@@ -40,3 +40,5 @@ Repository - is a storage of files supporting versioning.
 ![In case of fire](01.jpg)
 
 ## Additional useful Git commands 
+* **git commit --amend** - edit the last commit you added
+* **git commit --amend -m "_message_"** - edit the last commit you added with specific message
