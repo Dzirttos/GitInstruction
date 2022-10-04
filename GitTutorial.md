@@ -1,4 +1,4 @@
-# **Version control**
+# **Version control system**
 
 ## Glossary
 
@@ -21,6 +21,8 @@ Repository - is a storage of files supporting versioning.
 * **git checkout "hashcode"** - switch between commits. You must write at least 4 starting symbols of hashcode of the commit you wish to switch to. 
 * **git checkout master** - return to current state and countinue your work
 * **git diff** - check the difference between current file and last commited file
+
+*Creating and working with branches*
 
 ## Important tips
 1. Always put a space after "git" command and the next command
