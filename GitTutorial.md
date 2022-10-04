@@ -40,3 +40,6 @@ Repository - is a storage of files supporting versioning.
 ![In case of fire](01.jpg)
 
 ## Additional useful Git commands 
+* **git branch -D _branchname_** - forcefully delete branch despite commits and changes
+* **git help** - shows help and info about commands
+* **git _command_ -h** - shows detailed help about specific _command_. Example: "git commit -h"
