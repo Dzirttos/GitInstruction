@@ -28,7 +28,7 @@ Repository - is a storage of files supporting versioning.
 * **git checkout _name_** - switch to _name_ branch
 * **git merge _branchname_** - merge thr named branch with the current one. This command is usually done from master branch. 
 * **git branch -d _name_** - delete specific branch 
-* **git log --graph** - shows all the branches in a graph way. 
+* **git checkout -b _branch.hashcode_** - create new branch from the specific commit. Must know it's hashcode.
 
 ## Important tips
 1. Always put a space after "git" command and the next command
