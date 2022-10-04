@@ -23,6 +23,11 @@ Repository - is a storage of files supporting versioning.
 * **git diff** - check the difference between current file and last commited file
 
 *Creating and working with branches*
+* **git branch** - check all the branches 
+* **git branch _name_** - create new branch called _name_
+* **git checkout _name_** - switch to _name_ branch
+* **git merge _branchname_** - merge thr named branch with the current one. This command is usually done from master branch. 
+* **git branch -d _name_** - delete specific branch 
 
 ## Important tips
 1. Always put a space after "git" command and the next command
