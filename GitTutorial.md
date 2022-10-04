@@ -34,3 +34,8 @@ Repository - is a storage of files supporting versioning.
 1. Always put a space after "git" command and the next command
 2. Git follows files by <u>names</u>. If the file name is changed, you need to add file with new name + git commit
 3. Don't forget to <u>**commit**</u> your progress so you or the other person can track the changes of your file more easily. 
+4. Remember:
+
+![In case of fire](01.jpg)
+
+## Additional useful Git commands 
