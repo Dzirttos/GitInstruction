@@ -42,3 +42,6 @@ Repository - is a storage of files supporting versioning.
 ## Additional useful Git commands 
 * **git commit --amend** - edit the last commit you added
 * **git commit --amend -m "_message_"** - edit the last commit you added with specific message
+* **git branch -D _branchname_** - forcefully delete branch despite commits and changes
+* **git help** - shows help and info about commands
+* **git _command_ -h** - shows detailed help about specific _command_. Example: "git commit -h"
