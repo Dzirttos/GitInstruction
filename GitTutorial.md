@@ -35,3 +35,8 @@ Repository - is a storage of files supporting versioning.
 2. Git follows files by <u>names</u>. If the file name is changed, you need to add file with new name + git commit
 3. Don't forget to <u>**commit**</u> your progress so you or the other person can track the changes of your file more easily. 
 4. create **.gitignore** file to write down the names of files or folders you don't want for Git to track and remind you about them being untracked
+5. Remember:
+
+![In case of fire](01.jpg)
+
+## Additional useful Git commands 
