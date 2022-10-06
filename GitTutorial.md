@@ -45,3 +45,4 @@ Repository - is a storage of files supporting versioning.
 * **git branch -D _branchname_** - forcefully delete branch despite commits and changes
 * **git help** - shows help and info about commands
 * **git _command_ -h** - shows detailed help about specific _command_. Example: "git commit -h"
+*  **git checkout branch^** - move to the last coomint in the branch
